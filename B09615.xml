@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters concerning the cure of the plague the one to Thomas Eliot Esq; on of the grooms of the bed chamber to His Majesty, the other the Mayor of the town of Southampton, both from Thomas O Dowd Esq, a licensed chymicall physician, and one of the grooms of the chamber to His Majesty King Charles.</title>
+            <author>O'Dowde, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09615</idno><idno type="EEBO-CITATION">64551528</idno>
+  <idno type="VID">184676</idno>
+  <idno type="EEBO-PROQUEST">2248535022</idno>
+  
+            <idno type="STC">Wing O139C</idno>
+            <idno type="STC">ESTC R224325</idno>
+            <idno type="OCLC">64551528</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184676)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters concerning the cure of the plague the one to Thomas Eliot Esq; on of the grooms of the bed chamber to His Majesty, the other the Mayor of the town of Southampton, both from Thomas O Dowd Esq, a licensed chymicall physician, and one of the grooms of the chamber to His Majesty King Charles.</title>
+                  <author>O'Dowde, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside creased and stained.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="personal_name">Eliot, Thomas.</term>
+               <term type="topical_term">Plague --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:184676:1"/>
+            <head>Two Letters Cond<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e Cure of the PLAGUE The one to <hi>THOMAS ELYOT</hi> Esq; one of the Grooms of the Bed Chamber <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s Maiesty, The other to the Mayor of the town of <hi>Southampton,</hi> both from <hi>Thomas O Dowd</hi> Esq; a Licensed Chymicall P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ysician, and one of the Grooms of the Chamber to his Majesty King <hi>Charles.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ON the sight of his Majesties Commands by the Lord <hi>Ashl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es</hi> Letter to the <hi>Chymists,</hi> I hartily prayed, that it might fall to my lot to be the person, that should be sent to that Miserable Town of <hi>Southampton;</hi> and this I desire you to acquaint His Majesty with, not that I want imployment, or money, and can make it appear, from real fact, that I every day Cure all sorts of Persons of the Plague, (and that in six hours many) and can and do daily go as far into Infected families, as any <hi>Alian</hi> or <hi>Stranger,</hi> relying on the strength of his <hi>Fumes</hi> or <hi>Ameletes,</hi> and should at this gracious offer of his Majesty been content, to have gone to <hi>Southampton,</hi> without other terms, but obedience to His pious Commands, and therefore now humbly beg, that on the next deporable, Condition, of any other his Majesties subjects; in any part of his dominions I may receive his Majesties Commands, which will be Expeditious wings to the reliefe of his deplorable subjects in that Condition; which without vanity, and by the blessed assistance of a gracious God is not Inferior, to any the <hi>Administrations</hi> of the sons of men, and that His Majesty may be assured in this truth, let me be Commanded into any Pest-house or other the most Infected houses of this town, Sir I adress this Letter to you as my very worthy friend, and that I know you to be, a person of pious principles and that you may not be surprised, by a Letter from a man of my profession, and undartakings at this time, I only indite at a distance, And give order to a second hand, to adress it to you which I own, as the Ast of,</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>your humble servant Thomas O Dowde.</signed>
+                     <dateline>
+                        <date>
+                           <hi>July the 13<seg rend="sup">th</seg> 1665.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THat you may be assured of the Princely Compasion, of his Majesty to the deplorable state of your visited town, and being informed, that all your Physicians, Chyrurgions, &amp; Apothicaries, have left you, at such a time when men of their prefession, should be most solicitous of doing good, we the Chymicall Physicians in Habiting in this <hi>City,</hi> having received his Majesties Commands by a Letter from the Right Honorable the Lord <hi>Ashley</hi> to prepare and a point a person out of our number, by Gods assistance, for your reliefe and stop of your present <hi>Plague</hi> and <hi>Pestilence;</hi> and hath likewise out of his pious inclination for the good of you his people, ordred <hi>100l.</hi> for the person, asigned, with assurance of his farther Princely bounty, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> have n minated a very worthy and Learned person <hi>Doctor Edward Bolnest;</hi> and now from my own inclinations; to the good of man<g ref="char:EOLhyphen"/>kind and in obedience to the Commands of the best of <hi>Kings</hi> my Royall Master, I have made this humble adresse, a Copy whereof I have here in<g ref="char:EOLhyphen"/>closed sent you, that you and all the Nation may see, that God has raised up men Charitably designing the wellfare of their neighbours; with the Hazard of their own, and in Case your necessities yet require the hand of the Physician, and declined by him appoined, obtain but his Majesties Commands to me I shall freely, and Immediatly give you the best assistance, put by the God of Heaven into the Hand of</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>Your Compasionate friend and servant Thomas O Dowde.</signed>
+                     <dateline>
+                        <hi>From my Laboratory over against St. Clements in the strand,</hi>
+                        <date>
+                           <hi>this 15<seg rend="sup">th</seg> of</hi> July <hi>1665</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>HAving this day perused the Bill of <hi>Mortality</hi> and finding it to mount to 1089 and Consulting with my dayly observations; the many and indeed innumerable prescriptions, vended to the people, besides those of <hi>Ounions, Garlicke, Musterd, Figges, Rue, Treacle, Metheredate &amp;c.</hi> old and rediculous prescriptiones (now new vampt,) by those Learned Runaway <hi>Dutchmen</hi> of <hi>Amen Corner,</hi> that not many weeks since at plentiful Tables quaffing in merry Bowls, would not discourse of less the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out Hectoring the severest <hi>Plague,</hi> and by there termes of Art, as useless prescriptions assured you of there Cures in that kind to thousands, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow good men (two of their tribe onely excepted,) not to be heard of almost on this side <hi>Barwick</hi> or <hi>Pendenice,</hi> these are the learned me<gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> neither dare trust God nor their Heathenish Authors, in the City, that at other times, flock about your sick beds, and like water men <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sir, God in Infinite mercy cease this present <hi>Plague,</hi> and grant, that that Locus of <hi>Amen Corner</hi> never return again, to be a <hi>Plague</hi> or Pernience, to this most glorious City, but that it may injoy health as that Ancient City of <hi>Room</hi> 500 years, without a man of that profession, unless they lay aside insolency and pride; and assume like the well meaning Chymist Courage and resolusion, to visite the afflicted, as there duties to see with their own Eyes, and feel with there own hands, (not trusting Examiners) and then truly and faithfuly administring, those specificks, that according to the intent of God and Nature heal the sicke, and save the sound, and such must be, true Hermetick Physick, not rotten dull druges; and untill such Physicians and medicines; shall be Countinanced and imploid though <hi>Jacke, Will,</hi> and <hi>Dike,</hi> as a grave Colegiate (though no Conjurer) not long since to me stild the Chymists, neither this present plague, nor other Acute, nor Cronicall diseases shall ever be truly Cured, but in time of greatest Calamity, shall be left to the devouring malady, by <hi>E. F. A.</hi> and the worshipfull Sir <hi>J.</hi> himself whilest they go a simpling, as a witty gentle<g ref="char:EOLhyphen"/>man, one of there own late admirers by this folowing letter to me, merrily expresseth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Deer Dr.</salute>
+                  </opener>
+                  <p>I Was infinitely pleased with your present, and am now as thankfull, I guess by what I read there in Print, your noble fraternity is become a Corporation, if so, I owe you a bonefire, and a peal in the Belfry, and cannot I speak it without flatery, or Complement but exceedingly Commend, the noble Chymistes who so Christianly and nobly sticke to miserably afflicted <hi>London;</hi> an action which gains honour here, but a better Garland hereafter; whilst the Gallinest flye the diseased City, and run a simpling into the Cuntery; which suites well enough, with their deceived and deceiving, method, and therein they shew themselves as very Heathens, as there Grandsire Gallen; they formerly stuck Closs to a Dispensatory, but now want of honor and Conscience; furnishes them with another Dispensatory; not of practise, but of the duty of their profession, in runing away in this time of Mortality, these <hi>Dutchmen of Amen Corner;</hi> these enemies to <hi>England,</hi> no Satyrist can pinch them hard enough, yet in all my anger, were I as knowing in their rotten drugs, as I am of their putrified actions, I would make them immortall in a Ballet, To the tune of <hi>Robin Hood,</hi> if this be the way to bring Phlebotomy to honor, may I never see Horse-Leech more, our Brother of— lately wished the <hi>Turke</hi> into Christendom, and were it not for <hi>Dr. H.</hi> and <hi>Dr. B.</hi> I my selfe, would invite the <hi>Ottoman</hi> Family to make war upon them, if they scapt his Semiter, his Bow string would prove as good as any of Hipocrates Aphorismes, <hi>Deer Dr.</hi> I was glad to see that under <hi>Rawlinsons</hi> hand, to take off that base unworthy scandall, of <hi>Johnson;</hi> though to me it signified nothing for I my selfe did heer <hi>Rawlinson</hi> Confess, himself Cured by you, with a civill and humble acknowledgment; of your Care and Cure of him, before many witnesses in his own house; pray Jog Mr. <hi>G.</hi> that I may have an occasion to come to <hi>London,</hi> I long to be in your Laboratory, to tell you, <hi>Deer Dr.</hi> that I am your very humble servant.</p>
+                  <closer>
+                     <signed>W. R.</signed>
+                     <dateline>
+                        <date>
+                           <hi>July</hi> the 7th</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>ANd thus the world may see that these men of Art and Method, who not many moneths since, sported themselves, in rediculous follies in the face of this glorious City, by scurrilous Ballets, against the true healing Chymists, and by it asigned us to be distroyed by their fellow <hi>Dutchmen,</hi> as the greatest Enemies to his Majesty and people; and now themselves, fled and leave their reputation to be trampled like Dun in the mire, &amp;c. by perpetuall infamy never to be obliterated, shall ever by my hourly indeavors, and to advance that noblest, best, truest, and most safest Art of Pyrotechnie as a duty incombant on my Conscience, if in the prosecution I perish, be it to Gods glory, and I have my ends, and that the true honour of God and the good of the people in this present Calamity may be advanced, I doe freely and faithfully with my utmost indeavours, and best of Art and Medicine, (and think it not be low the honour of a Physician) offer my service to all sorts and degrees of people during this present distemper of the plague, without the least expectation of fees or gratuities, if not well able to spare it, provided I have admition of egress and regrses, into every infected family, and will be Content, with barely the value of my medicines, and those at so reasonable Rates, as not to the abuse of either rich or poor, and this not designed out of vain glory; or other end but Christian bowels of Compasion, as it is the Cause of God, the King and the Nation, with hope that all those of our number of Chymi<g ref="char:EOLhyphen"/>call Physicians will do the like, that so we may have the blessing of God on our just undertakings, and the prayers and Countinance of good men, to suport us in our intensions against the worst of men, that only boast of Learned ignorance, and are truely ignorant in the art of healing, as by my next Book <hi>A whip for Gallianism</hi> &amp;c. Now preparing for the Press will appear, to the detecting that greatest of Cheates the method of Physick Galennicall let them suport it by jugling detraction and the spiriting of poor Mr. <hi>Johnson</hi> their Laboratoring druge to vend their <hi>Bilingsgate</hi> frip, as a broken Champion, to their reeling worships; that can in all his discourse for them, boast of nothing, but there gravity and learning, (not healing) yet I think not so good an Antiquery, as to know that this formall Seminary, was in its first institution, but seven in number, two only Physicians and five Studients, as I am Credibly informed, but now so numerous a spawn, as fitted to run a way in whole showles, blessed be God for all his mercies, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
